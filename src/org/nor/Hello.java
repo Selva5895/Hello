@@ -2,7 +2,10 @@ package org.nor;
 
 public class Hello {
 	private void Company() {
-	System.out.println("Hello");
+    System.out.println("Hello");
+	System.out.println("java");
+	
+	
 }
 public static void main(String[] args) {
 	Hello h = new Hello();
